@@ -1,0 +1,11 @@
+a = [1,4,7,5,8,2,1,3,4,5,9,7,6,1,10]
+print ("1 : ", a.count(1))
+print ("2 : ", a.count(2))
+print ("3 : ", a.count(3))
+print ("4 : ", a.count(4))
+print ("5 : ", a.count(5))
+print ("6 : ", a.count(6))
+print ("7 : ", a.count(7))
+print ("8 : ", a.count(8))
+print ("9 : ", a.count(9))
+print ("10 : ", a.count(10))
